@@ -1,6 +1,6 @@
 
 
-var backend = "http://localhost:8080/BackEnd/api";
+var backend = "http://localhost:8080/Back/api";
 //var backend = "https://crudcrud.com/api/80909ca5f735420688ef880f614e5345";
 
 var  doctores = new Array();
